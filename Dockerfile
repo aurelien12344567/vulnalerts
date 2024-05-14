@@ -1,8 +1,8 @@
-FROM python:3-stretch
+FROM python:3.9
 
 LABEL "com.github.actions.name"="VulnAlerts"
 LABEL "com.github.actions.description"="Daily customized CVE Alerts straight to your Slack Inbox for Free."
-LABEL "version"="1.0"
+LABEL "version"="1.1"
 LABEL "com.github.actions.icon"="shield"
 LABEL "com.github.actions.color"="blue"
 LABEL "repository"="https://github.com/y-mehta/vulnalerts"
