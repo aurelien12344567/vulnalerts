@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Build Docker Image
-      run: docker build --no-cache -t your_image_name     
+      run: docker system prune --all --force
     - uses: actions/checkout@master
     - uses: y-mehta/vulnalerts@master
       env:
