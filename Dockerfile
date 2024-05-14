@@ -10,6 +10,7 @@ LABEL "homepage"="https://github.com/y-mehta/vulnalerts"
 
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
+RUN apt update 
 
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
