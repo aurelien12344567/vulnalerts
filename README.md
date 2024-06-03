@@ -1,6 +1,6 @@
 # VulnAlerts - Customized CVE Alerts straight to your Slack Channel
 
-## How to Use?
+## How to Use?dfddd
 - [Create an Incoming Webhook on Slack](https://slack.com/intl/en-in/help/articles/115005265063-Incoming-WebHooks-for-Slack)
 - Goto Repository Settings -> Secrets -> Add a New Secret
 - Enter ```SLACK_WEBHOOK``` in the Secret Name and your slack webhook in the value.
