@@ -1,5 +1,10 @@
-acme:thttpd
-nothings:stb_truetype
+citrix:sharefile
+citrix:netscaler_application_delivery_controller
+putty:putty
+microsoft:azure_active_directory_connect
+paloaltonetworks:cortex_xdr_agent
+paloaltonetworks:pan-os
+microsoft:.net
 microsoft:365_apps
 google:chrome
 microsoft:Microsoft Azure Active Directory Connect 1.4.32.0
