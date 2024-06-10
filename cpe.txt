@@ -1,2 +1,9 @@
 acme:thttpd
 nothings:stb_truetype
+microsoft:365_apps
+google:chrome
+microsoft:Microsoft Azure Active Directory Connect 1.4.32.0
+microsoft:windows_11
+zabbix:zabbix Agent
+cpe:2.3:a:microsoft:azure_active_directory_connect:1.4.32.0:*:*:*:*:*:*:*
+cpe:/a:microsoft:azure_active_directory_connect:1.4.32.0
