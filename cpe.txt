@@ -12,3 +12,4 @@ microsoft:windows_11
 zabbix:zabbix Agent
 cpe:2.3:a:microsoft:azure_active_directory_connect:1.4.32.0:*:*:*:*:*:*:*
 cpe:/a:microsoft:azure_active_directory_connect:1.4.32.0
+php:php
